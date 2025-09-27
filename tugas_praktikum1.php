@@ -1,4 +1,3 @@
-<!--VARIABEL ARRAY, DIENCODE KE FORMAT JSON-->
 <?php
 $person_name = array("Marcel", "Ardhan", "Ayu", "Albert");
 
